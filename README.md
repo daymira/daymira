@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @daymira
-- 👀 I’m interested in Java, HTML, CSS e Javascript, C#.
-- 🌱 I’m currently learning Java, Spring Boot, C#.
-- 📫 How to reach me
-</br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daynara-mira-8a81ab218/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daynaramira)
+- Hello there 👋 . I’m ***Daynara***
+- 👩🏻‍💻 I'm currently looking for my first opportunity as a developer.
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daymira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daymira&layout=compact)](https://github.com/daymira/github-readme-stats)
 
+You can reach me through my LinkedIn or Instagram.
+
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="50"/>](https://www.linkedin.com/in/daynara-mira-8a81ab218/)
+     [<img src="https://github.com/daymira/daymira/assets/64990757/9a4d2c85-7f2e-4123-b2c3-c1b729e6525e" width="50"/>](https://www.instagram.com/daynaramira)
 
 <!---
 daymira/daymira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
