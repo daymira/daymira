@@ -1,7 +1,7 @@
 <div align="left">
 	<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk4dHdrZ2ZjMHNmeTJpdW13ODdxbmc2bDd2NHdxenQ4MmVpamE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.webp)">
-  <img align="right" margin-rigth="50" height="150em alt="Sussurros do coração." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk4dHdrZ2ZjMHNmeTJpdW13ODdxbmc2bDd2NHdxenQ4MmVpamE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.webp">
+  <source align="right" padding="" height="150em  media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk4dHdrZ2ZjMHNmeTJpdW13ODdxbmc2bDd2NHdxenQ4MmVpamE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.webp">
+  <img align="right" padding="" height="150em alt="Sussurros do coração." src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk4dHdrZ2ZjMHNmeTJpdW13ODdxbmc2bDd2NHdxenQ4MmVpamE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.webp">
 </picture>
 - Hello there 👋 . I’m Daynara<br/> 
 - I'm currently looking for my first opportunity as a developer 👩🏻‍💻.<br/> 
